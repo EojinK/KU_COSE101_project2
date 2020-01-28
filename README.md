@@ -1,1 +1,1 @@
-# nuyuri-KU_COSE101_project2
+# KU_COSE101_project2
